@@ -11,7 +11,6 @@ import org.junit.runner.RunWith;
         glue = "com.proyecto.web.glue",
         stepNotifications = true,
         tags = "@LOGIN_EXITOSO"
-        //HOLA
 )
 public class RunnerTest {
 }
